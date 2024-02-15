@@ -12,3 +12,11 @@ https://git-scm.com/download/
 // you need to configure user
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
+
+
+cxcxc
+cxc
+xc
+xc
+xc
+x
