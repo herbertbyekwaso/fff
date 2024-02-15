@@ -6,7 +6,7 @@ https://git-scm.com/download/
 
 // from vscode install Github pull request and issues
 // Github code spaces
-// Repository
+// Github Repository
 // in settings make sure Github is enabled
 
 // you need to configure user
