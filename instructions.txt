@@ -1,0 +1,14 @@
+// to install git
+
+https://git-scm.com/download/
+
+// Go to Github and create an account
+
+// from vscode install Github pull request and issues
+// Github code spaces
+// Repository
+// in settings make sure Github is enabled
+
+// you need to configure user
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
